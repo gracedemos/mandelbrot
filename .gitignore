@@ -1,0 +1,11 @@
+# build
+/build
+
+# VSCode
+/.vscode
+
+# includes
+include/SDL2
+
+# libraries
+/lib
